@@ -19,7 +19,7 @@ Proje, kuş uçuşu mesafeler yerine **Google Maps Routes API (v2)** kullanarak 
 ```text
 KKA_ankara/
 │
-├── ana_dosya.py               # Streamlit ana uygulama dosyası (Başlatmak için bunu çalıştırın)
+├── main.py               # Streamlit ana uygulama dosyası (Başlatmak için bunu çalıştırın)
 ├── ayarlar.py                 # Algoritma varsayılan parametreleri
 ├── requirements.txt           # Gerekli Python kütüphaneleri
 ├── README.md                  # Proje dökümantasyonu
