@@ -14,7 +14,7 @@ Proje, kuş uçuşu mesafeler yerine **Google Maps Routes API (v2)** kullanarak 
 * **Görselleştirme:** Folium haritası üzerinde rota çizimi ve iterasyon performans grafiği.
 * **Dinamik Parametreler:** Yan menüden algoritma ayarlarını anlık değiştirme imkanı.
 
-## 📂 Dosya Yapısı (Türkçeleştirilmiş)
+## 📂 Dosya Yapısı
 
 ```text
 KKA_ankara/
@@ -67,4 +67,3 @@ Uygulama arayüzünden aşağıdaki parametreleri değiştirebilirsiniz:
 * **Adı Soyadı:** Sergen Göktürk
 * **Okul Numarası:** 2212721075
 * **Repo Bağlantısı:** https://github.com/GokturkSergen/aco_yol_optimizasyonu/
-```
